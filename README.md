@@ -5,20 +5,20 @@ Brief list of current AI tools
 AI Code Gen
 -----------
 
-1. http://UseBlackBox.io
-Plain English to code
+1. Plain English to code
+ http://UseBlackBox.io
 
-2. http://SourceAI.dev
-Generate code with AI
+2. Generate code with AI
+ http://SourceAI.dev
 
-3. http://beta.openai.com/codex-javascript-sandbox
-ChatGPT for developers
+3. ChatGPT for developers
+ http://beta.openai.com/codex-javascript-sandbox
+ 
+4. Comments to code
+  http://Codeium.com
 
-4. http://Codeium.com
-Comments to code
-
-5. http://Codesquire.ai
-Turn your thoughts into code
+5. Turn your thoughts into code
+  http://Codesquire.ai
 
 Audio and Video AI Tools:
 -------------------------
